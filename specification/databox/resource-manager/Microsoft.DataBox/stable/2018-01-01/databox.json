@@ -35,7 +35,7 @@
         ],
         "responses": {
           "200": {
-            "description": "The supported operations list.",
+            "description": "The supported operations list for paths.",
             "schema": {
               "$ref": "#/definitions/OperationList"
             }
