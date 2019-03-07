@@ -20,7 +20,7 @@
         "tags": [
           "Operations"
         ],
-        "description": "This method gets all the operations.",
+        "description": "This method gets all the operations for paths.",
         "operationId": "Operations_List",
         "consumes": [
           "application/json"
