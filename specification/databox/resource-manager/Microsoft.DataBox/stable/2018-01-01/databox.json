@@ -2492,7 +2492,7 @@
           "items": {
             "type": "string"
           },
-          "readOnly": truehttps://github.com/shahabhijeet/AzSwaggerSpecsTestClone/tree/shahabhijeet-dataBox/specification
+          "readOnly": true
         },
         "disabledReason": {
           "description": "Reason why the Sku is disabled.",
