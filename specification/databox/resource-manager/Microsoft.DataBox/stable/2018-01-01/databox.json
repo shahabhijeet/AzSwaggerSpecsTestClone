@@ -2023,7 +2023,7 @@
       }
     },
     "Operation": {
-      "description": "Operation entity.",
+      "description": "Operation entity test",
       "type": "object",
       "properties": {
         "name": {
@@ -2054,7 +2054,7 @@
       "type": "object",
       "properties": {
         "provider": {
-          "description": "Provider name.",
+          "description": "Operation Provider name.",
           "type": "string"
         },
         "resource": {
@@ -2492,7 +2492,7 @@
           "items": {
             "type": "string"
           },
-          "readOnly": true
+          "readOnly": truehttps://github.com/shahabhijeet/AzSwaggerSpecsTestClone/tree/shahabhijeet-dataBox/specification
         },
         "disabledReason": {
           "description": "Reason why the Sku is disabled.",
